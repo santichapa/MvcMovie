@@ -370,3 +370,4 @@ C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\c
 C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\cse325-week2\MvcMovie\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\cse325-week2\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\cse325-week2\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\cse325-week2\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
